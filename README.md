@@ -150,7 +150,7 @@ python analysis_comments.py
 
 ## Автор
 
-Проект создан для анализа активности сообщества Gonka Chain
+Проект создан для анализа активности сообщества [Gonka Chain](https://t.me/GonkaAI_Mining_Bot?start=04d591cf-743b-43c2-9599-af04cbba4a4f)
 
 ## Лицензия
 
